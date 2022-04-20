@@ -1,0 +1,20 @@
+
+.paginator {
+  text-align: center;
+}
+.pageNumber {
+  padding: 9px 10px 9px 10px;
+  margin: 2px;
+  border-radius: 7px;
+  border: none;
+}
+.pageNumber:hover {
+  background-color: #999999;
+}
+.selectedPage {
+  padding: 9px 10px 9px 10px;
+  border-radius: 7px;
+  color: #fff;
+  background-color: #15CD67;
+  border: none;
+}

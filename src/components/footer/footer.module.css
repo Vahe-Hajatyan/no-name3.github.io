@@ -1,0 +1,19 @@
+.Footer{
+  grid-area: f;
+  background:#15CD67;
+  padding: 5px 0 0 100px;
+}
+.Footer p {
+  color: aliceblue;
+}
+.menu_li{
+  color: #fff;
+}
+.menu_li a{
+  color: #0061b5;
+  text-decoration: none;
+}
+.menu_li a:hover{
+  color: #0061b5;
+  text-decoration: underline;
+}

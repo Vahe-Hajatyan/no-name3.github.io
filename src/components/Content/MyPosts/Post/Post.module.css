@@ -1,0 +1,19 @@
+.item{
+  display: inline-grid;
+  color: #000;
+  padding-top: 10px;
+}
+.flex{
+  display: flex;
+  align-items: center;
+}
+.flex span{
+  padding-left: 10px;
+}
+
+.item img {
+  width: 60px;
+}
+.button{
+  border: none;
+}

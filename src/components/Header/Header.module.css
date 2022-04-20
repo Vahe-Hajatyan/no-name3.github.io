@@ -1,0 +1,40 @@
+header{
+  grid-area: h;
+  background: #15CD67;
+}
+
+header img{
+  width: 40px;
+  padding: 10px;
+}
+
+.loginBlock {
+  float: right;
+}
+
+.floating_button {
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+  height: 41px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 11px 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #0c0c0c;
+  background: white;
+  box-shadow: 0 8px 15px rgb(0 0 0 / 10%);
+  transition: .3s;
+}
+.floating_button:hover {
+  background: #020202;
+  box-shadow: 0 15px 20px rgba(46, 229, 157, .4);
+  color: white;
+  transform: translateY(-7px);
+}
